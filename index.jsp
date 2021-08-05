@@ -71,7 +71,7 @@
                 </div>
 
                 <input type="submit" value="Execute" name="execute" style="width: 100px;">
-		<input type="reset" value="Clear" name="clear" style="width: 100px;">
+		<input onClick="reset();" type="reset" value="Clear" name="clear" style="width: 100px;">
             </form>
 
 	    <div class="text-center col-sm-12 col-md-12 col-lg-12">
